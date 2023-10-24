@@ -4,8 +4,7 @@ add:
 	git add .
 
 commit:
-	@(printf "Введите описание коммита: ");
-	git commit -am $(shell echo `head -n1`)
+	git commit -am update
 
 push:
 	git push origin articles

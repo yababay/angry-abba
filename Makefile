@@ -4,7 +4,7 @@ add:
 	git add .
 
 commit:
-	# COMMIT=$(shell read -p "Введите описание коммита: " COMMIT; echo $$COMMIT)
+	echo "Введите описание коммита:"
 	git commit -am $(shell echo `head -n1`)
 
 push:

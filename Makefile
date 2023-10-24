@@ -4,7 +4,7 @@ add:
 	git add .
 
 commit:
-	echo "Введите описание коммита:"
+	@(printf "Введите описание коммита: ");
 	git commit -am $(shell echo `head -n1`)
 
 push:

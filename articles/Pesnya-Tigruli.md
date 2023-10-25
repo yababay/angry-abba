@@ -42,4 +42,7 @@
 Вглядись в эту тень и ты поймешь:
 Это я, хищник.
 
-Что-то мне подсказывает, что это не про игривую самочку...
+Что-то мне подсказывает, что это не про самоутверждающихся самочек...
+А песня в стиле диско, где игриво обыгрывается образ тигра, звучит и выглядит вот так:
+
+<iframe width="690" height="388" src="https://www.youtube.com/embed/5fS6VeXw2Tk" title="Tiger Baby - Silver Convention - HQ/HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

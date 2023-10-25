@@ -13,6 +13,8 @@
 Я один такой!
 р-р-р-р-р
 
+<iframe width="690" height="388" src="https://www.youtube.com/embed/wIvGOL6_Vz4" title="Тигруля прыгает на хвосте" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 К чему это я? А все к тому же: никак не остановлюсь в своих поисках удивительных смыслов, скрытых в песнях группы `ABBA`. Вот, скажем, один из их ранних хитов, - `Tiger`, - о чем он, если не слишком вникать в текст?
 
 <iframe width="690" height="388" src="https://www.youtube.com/embed/wWQ7wrPyUe0" title="ABBA - Tiger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -43,6 +45,6 @@
 Это я, хищник.
 
 Что-то мне подсказывает, что это не про самоутверждающихся самочек...
-А песня в стиле диско, где игриво обыгрывается образ тигра, звучит и выглядит вот так:
+А песня в стиле диско, где эротично обыгрывается образ тигра, звучит и выглядит вот так:
 
 <iframe width="690" height="388" src="https://www.youtube.com/embed/5fS6VeXw2Tk" title="Tiger Baby - Silver Convention - HQ/HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -11,4 +11,4 @@
     <slot />
 </main>
 
-<Footer author={author} />
+<Footer author={author} title={title} />

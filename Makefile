@@ -9,5 +9,3 @@ commit:
 push:
 	git push origin articles
 
-docker:
-	git checkout docker

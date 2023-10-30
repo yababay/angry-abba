@@ -30,4 +30,4 @@
 
 Картинка для сайта создана с помощью искусственного интеллекта [Dream by WOMBO](https://dream.ai/create). Исходную (цветную) версию, созданную по запросу `angry ABBA` можно посмотреть [здесь](/angry-abba.jpg).
 
-Связаться с автором можно через телеграм-канал [Random History](https://t.me/random_historical_pictures).
+Замечания по внешнему виду сайта, ошибкам в текстах можно выражать через раздел [Issues](https://github.com/yababay/angry-abba/issues) странички проекта на `Github'e`. Связаться с автором можно также через час телеграм-канала [Random History](https://t.me/random_historical_pictures).

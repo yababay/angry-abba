@@ -22,6 +22,7 @@
 * [Маня и money](/articles/Money-money)
 * [Маленькая, но гордая птичка](/articles/Eagle)
 * [Алёнка-разведёнка](/articles/Alenka-razvedenka)
+* [Hominem quaero, или женишка бы ей хорошего](/articles/gimme-gimme)
 * [Заколдованные мальчики и девочки](/articles/The-Piper)
 
 В заключение отмечу, что большинство песен `ABBA`, все-таки, про любовь, надежду,

@@ -11,7 +11,7 @@
 – Почему же вы говорите, что не живете здесь?
 – Да разве это жизнь?
 
-Как ни удивительно, но песня `The Way Life&#39;s Meant To Be` группы `Electric Light Orchestra` именно об этом.
+Как ни удивительно, но песня `The Way Life's Meant To Be` группы `Electric Light Orchestra` именно об этом.
 Это еще один пример того, как за светлой, жизнерадостной, танцевальной мелодией и блистательной аранжировкой скрывается чудненькая антиутопия.
 
 <iframe width="690" height="388" src="https://www.youtube.com/embed/-MmAs40Q-tQ" title="Electric Light Orchestra - The Way Life&#39;s Meant To Be (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

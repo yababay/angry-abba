@@ -42,5 +42,6 @@
 * [Да разве это жизнь?](/articles/elo-life-meant-to-be)
 * [Заезжий зануда](/articles/sting-englishman)
 * [Искушение мисс Пигги](/articles/temptation)
-* [А мог бы и ножичком пырнуть](/articles/mack-the-knife)
+* [А мог и ножичком пырнуть](/articles/mack-the-knife)
+* [Кровожадная Ассоль](/articles/assol)
 

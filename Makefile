@@ -12,6 +12,3 @@ push:
 edit:
 	/usr/bin/abricotine $(shell read -p 'Имя файла: ' FILE_NAME; FULL_PATH=`pwd`/$$FILE_NAME.md; touch $$FULL_PATH; echo $$FULL_PATH)
 
-%.md:
-	/usr/bin/abricotine $(abspath .)/%.md
-

@@ -44,4 +44,5 @@
 * [Искушение мисс Пигги](/articles/temptation)
 * [А мог и ножичком пырнуть](/articles/mack-the-knife)
 * [Кровожадная Ассоль](/articles/assol)
+* [На свадьбе малолеток](/articles/mia-wallece)
 

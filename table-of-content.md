@@ -45,5 +45,5 @@
 * [А мог и ножичком пырнуть](/articles/mack-the-knife)
 * [Кровожадная Ассоль](/articles/assol)
 * [На свадьбе у гопников](/articles/mia-wallece)
-* [Пол Маккартни и Вандербильдиха](/articles/mrs-vanderbilt)
+* [Пол Маккартни и Салтычиха](/articles/mrs-vanderbilt)
 

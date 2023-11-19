@@ -90,3 +90,7 @@ What's the use of hurrying? (no use!)
 What's the use of anything?
 Ho hey ho
 
+PS: В припев хорошо встраивается русскоязычный вариант имени `Mrs. Vandebilt`. Можно даже напевать:
+
+> Leave me alone Вандербильдиха…
+

@@ -1,0 +1,25 @@
+article{
+    code {
+        color: cornsilk
+    }
+
+    a {
+        color: cornflowerblue;
+        text-decoration: none;
+    }
+
+    blockquote {
+        border-color: #333;
+        p {
+            color: silver;
+            font-family: monospace;
+            font-style: normal;
+        }
+    }
+}
+
+header {
+    h1 {
+        font-variant: small-caps;
+    }
+}

@@ -1,11 +1,5 @@
-FROM node:18-alpine3.18
-
-WORKDIR /app
+FROM yababay/publications
 
 COPY package.json ./
-RUN npm install --omit=dev
-
 COPY build/ ./
-
-CMD [ "node", "." ]
 

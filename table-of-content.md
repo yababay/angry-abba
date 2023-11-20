@@ -46,5 +46,5 @@
 * [Кровожадная Ассоль](/articles/assol)
 * [На свадьбе у гопников](/articles/mia-wallece)
 * [Пол Маккартни и Вандербильдиха](/articles/mrs-vanderbilt)
-* [Царь Давид, Джузеппе Верди и Boney M](/articles/rivers-of-babilon)
+* [Царь Давид, Джузеппе Верди и Boney M](/articles/rivers-of-babylon)
 

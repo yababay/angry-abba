@@ -8,8 +8,7 @@
 	},
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build",
-		"deploy": "rsync -ar build/ $npm_package_config_ssh_host:/var/www/$npm_package_config_www_prefix.$npm_package_name"
+		"deploy": "vite build && rsync -ar build/ $npm_package_config_ssh_host:/var/www/$npm_package_config_www_prefix.$npm_package_name"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^2.0.3",

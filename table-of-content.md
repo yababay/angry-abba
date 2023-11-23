@@ -47,4 +47,4 @@
 * [На свадьбе у гопников](/articles/mia-wallece)
 * [Пол Маккартни и Вандербильдиха](/articles/mrs-vanderbilt)
 * [Царь Давид, Джузеппе Верди и Boney M](/articles/rivers-of-babylon)
-
+* [«Космомольцы»-добровольцы](/articles/queen-39)

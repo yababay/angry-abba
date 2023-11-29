@@ -48,5 +48,5 @@
 * [Пол Маккартни и Вандербильдиха](/articles/mrs-vanderbilt)
 * [Царь Давид, Джузеппе Верди и Boney M](/articles/rivers-of-babylon)
 * [«Космомольцы»-добровольцы](/articles/queen-39)
-* [Ну дела, ночь была, Кёльн и Дрезден разбомбили мы до тла](/articles/coming-in-on-a-wing-and-a-prayer)
+* [Ну дела, ночь была, Кёльн и Гамбург разбомбили мы до тла](/articles/coming-in-on-a-wing-and-a-prayer)
 

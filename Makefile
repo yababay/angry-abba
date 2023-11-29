@@ -1,4 +1,4 @@
-all: add commit push
+all: add commit push deploy
 
 add:
 	git add .
@@ -14,4 +14,8 @@ edit:
 
 toc:
 	nvim table-of-content.md
+
+deploy:
+	cd ..
+	npm run deploy
 

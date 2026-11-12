@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: #090909 !important;
+  color: silver !important;
+  width: 100%;
+  min-height: 100vh;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media screen and (min-width: calc(700px + 3rem + 42.6667vh)) {
+  body {
+    background-image: url(/background.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 53.3333333333vh 100vh;
+    background-attachment: fixed;
+  }
+}

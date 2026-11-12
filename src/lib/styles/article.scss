@@ -1,0 +1,39 @@
+article {
+  width: 100%;
+  max-width: clamp(700px,75vw,80ch);
+  padding: .5rem;
+  margin: auto;
+  h1, h2, h3, h4, h5, h6 {
+    color: silver;
+    font-family: SubtitleFont;
+  }
+  
+  p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+    code {
+        color: var(--bs-code-color);
+        word-wrap: break-word;
+    }
+    a {
+        color: #6495ed;
+        text-decoration: none;
+    }
+  }
+
+  ol, ul {
+	padding-left: 2rem;
+  }
+
+  article img {
+	max-width: 690px;
+	margin: 2rem auto;
+	display: block;
+  }
+}
+
+@media (min-width: 1200px) {
+  article h1 {
+    font-size: 2.5rem;
+  }
+}

@@ -1,54 +1,46 @@
-# sv
+# ABBA, о чем ваши песни?
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Скандинавия дала миру два великих нематериальных актива — шведскую музыкальную группу `ABBA` и финскую компьютерная игру `Angry Birds`. Объединение этих названий в `angry-abba` хорошо отражает тематику сайта, который вы видите перед собой: песни `ABBA` не всегда про любовь и радость. Этот факт долгое время оставался вне моего внимания, но [случайный просмотр одного старого клипа](intro/) стал толчком к тому, чтобы перевести с английского несколько их текстов и испытать сильное удивление. Оказалось, что некоторые песни `ABBA` представляют собой достаточно глубокие 
+произведения с отсылками к философскому и историческому наследию. Есть в них 
+и тревога за завтрашний день, и другие совсем неожиданные темы… 
 
-## Creating a project
+В общем, получился небольшой цикл эссе: 
 
-If you're seeing this, you've probably already done this step. Congrats!
+* [Слова не для всех (введение)](intro/)
+* [«Без умолку безумная девица…»](bez-umolku-bezumnaya-devica/)
+* [Иудушка и девчуля](iudushka-i-chiksa/)
+* [Fernando, или бойцы вспоминают минувшие дни](fernando-ili-bojcy-vspominayut-minuvshie-dni/)
+* [Happy New Дивный Новый Мир](happy-new-year/)
+* [Песня Тигрули](pesnya-tigruli/)
+* [Светят фонари в лицо недобро](super-trouper/)
+* [Маня и money](money-money/)
+* [Маленькая, но гордая птичка](eagle/)
+* [Алёнка-разведёнка](alenka-razvedenka/)
+* [Hominem quaero, или мысли о женишках](gimme-gimme/)
+* [Заколдованные мальчики и девочки](the-piper/)
 
-```sh
-# create a new project
-npx sv create my-app
-```
+***
 
-To recreate this project with the same configuration:
+Слева на этой странице вы можете разглядеть смутное изображение некоего монстра. Это не плод моего больного воображения, а один из рисунков, размещенных на платьях Агнеты и Анни-Фрид, в которых они выступали во время гастролей «Сделано в Швеции» (1975 г.). Фанаты до сих пор восхищаются этими «милыми котиками», разработанными шведским дизайнером Уве Сандсртемом, но мало кто удосужился рассмотреть их поближе. Это к вопросу о том, является ли творчество `ABBA` «милой музыкой для домохозяек».
 
-```sh
-# recreate this project
-npx sv@1.3.0 create --template minimal --types ts --add mdsvex sveltekit-adapter="adapter:static" --install npm angry-abba
-```
+![Анни-Фрид выступает в платье с изображением необычного котоподобного монстра.](abba-koteg.jpg)
 
-## Adding features
+В заключение отмечу, что большинство песен `ABBA`, все-таки, про любовь, надежду, радость и романтические переживания, про все то, из-за чего популярная музыка и называется популярной. Но некоторый объем действительно интересных, глубоких текстов делает творчество группы тем, для чего действительно не жалко приставки `super`. По крайней мере, анализируя их, можно наделить знакомые и порой уже поднадоевшие хиты новой жизнью.
 
-Add features to your project with `sv add`:
+Замечания по внешнему виду сайта, ошибкам в текстах можно выражать через раздел [Issues](https://github.com/yababay/angry-abba/issues) странички проекта на `Github'e`. Связаться с автором можно также через чат телеграм-канала [Random History](https://t.me/random_historical_pictures).
 
-```sh
-npx sv add
-```
+## Бонус-треки: не только ABBA
 
-For example, to add Tailwind CSS:
+Парадоксальные тексты песен свойственны и произведениям других популярных исполнителей, мелодии которых звучат, если опираться на первое впечатление, как развлекательные. Думаю, не стоит заводить для каждого такого случая отдельный сайт, поэтому свои переводы таких песен буду публиковать здесь. 
 
-```sh
-npx sv add tailwindcss
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
+* [Да разве это жизнь?](elo-life-meant-to-be/)
+* [Заезжий зануда](sting-englishman/)
+* [А мог и ножичком пырнуть](mack-the-knife/)
+* [Кровожадная Ассоль](assol/)
+* [На свадьбе у гопников](mia-wallece/)
+* [Пол Маккартни и Вандербильдиха](mrs-vanderbilt/)
+* [Царь Давид, Джузеппе Верди и Boney M](rivers-of-babylon/)
+* [«Космомольцы»-добровольцы](queen-39/)
+* [Кёльн и Гамбург разбомбили мы до тла](coming-in-on-a-wing-and-a-prayer/)
+* [Величайший русский секс-механизм](rasputin/)
+* [Царица ночи на Первой мировой](tsaritsa-nochi/)

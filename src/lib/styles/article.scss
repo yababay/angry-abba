@@ -12,7 +12,7 @@ article {
 	margin-top: 0;
 	margin-bottom: 1rem;
     code {
-        color: var(--bs-code-color);
+        color: #fff8dc;
         word-wrap: break-word;
     }
     a {
@@ -22,13 +22,29 @@ article {
   }
 
   ol, ul {
-	padding-left: 2rem;
+	  padding-left: 2rem;
   }
 
-  article img {
-	max-width: 690px;
-	margin: 2rem auto;
-	display: block;
+  img {
+    max-width: 70ch;
+    margin: 2rem auto;
+    display: block;
+  }
+
+  blockquote {
+      border-left: 5px solid silver;
+      padding: 0;
+      padding-left: 2rem;
+      margin: 2rem 0;
+      p {
+        color: silver;
+        font-family: monospace;
+        white-space: break-spaces;
+        border: 0;
+        padding: 0;
+        margin: 0 0 .7rem;
+        font-style: italic;
+      }
   }
 }
 

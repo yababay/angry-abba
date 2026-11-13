@@ -11,7 +11,15 @@ export default defineConfig({
 				runes: ({ filename }) =>
 					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
-			adapter: adapter(),
+			adapter: adapter({
+				fallback: '404.html'
+			}),
+			paths: {
+				base: process.argv.includes('dev') ? '' : '/angry-abba'
+			},
+			prerender: {
+				handleHttpError: 'warn'
+			},
 			preprocess: [mdsvex({ extensions: ['.svx', '.md'] })],
 			extensions: ['.svelte', '.svx', '.md']
 		})

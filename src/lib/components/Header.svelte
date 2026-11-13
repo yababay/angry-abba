@@ -1,6 +1,12 @@
+<script lang="ts">
+    import { page } from "$app/state";
+
+    const { pathname } = page.url
+</script>
+
 <header class="header d-flex flex-column justify-content-between align-items-center pt-1 pb-3">
     <h1>
-        <a href="/">Angry ABBA</a>
+        <a href={pathname.startsWith('/angry-abba') ? '/angry-abba/' : '/'}>Angry ABBA</a>
     </h1> 
     <p>
         популярные мелодии, драматические тексты
@@ -25,7 +31,6 @@
         font-family: SubtitleFont;
         font-variant: small-caps;
         letter-spacing: .5rem;
-        // color: gray;
     }
 
     header h1 a, header p {

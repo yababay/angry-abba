@@ -1,3 +1,13 @@
+---
+title: Алёнка-разведёнка
+artist:
+year:
+album:
+tags:
+  - песня
+status: OK
+created: 2026-11-14
+---
 <script>
     import Youtube  from '#lib/components/Youtube.svelte';
 </script>

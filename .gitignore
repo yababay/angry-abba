@@ -21,3 +21,5 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+Angry*
+src/routes/.obsidian/plugins/hunspell-spellchecker/languages/
